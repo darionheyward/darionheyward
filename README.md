@@ -1,4 +1,9 @@
 ## Hi there 👋
+
+Darion Heyward
+
+I'm experienced in programming in java.
+
 ![My Skills](https://skillicons.dev/icons?i=java)
 
 <a href= "https://www.linkedin.com/in/darion-heyward/"/>
