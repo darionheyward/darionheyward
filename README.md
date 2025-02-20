@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-Darion Heyward
+I'm Darion Heyward and I'm currently a student at Lehman College.
 
-I'm experienced in programming in java.
+I'm persuing my Bachelors of Science degree in Computer Science and want to become a 
+Computer Repair Technician
+
+I'm experienced in programming in java and still like to review how much I learned.
 
 ![My Skills](https://skillicons.dev/icons?i=java)
 
