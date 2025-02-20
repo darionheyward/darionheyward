@@ -5,7 +5,7 @@ I'm currently a student at Lehman College and am persuing my Bachelors of Scienc
 I want to become a Computer Repair Technician and am experienced in programming in java and still like to review how much I learned.
 I'm experienced with using software applications, such as Microsoft Word, PowerPoint and Excel.
 I also have communication skills, problem solving skills and experienced fixing things.
-I've spent a lot of time on the computer looking things up and trying to get the most accurate information that I need.
+I've spent a lot of time on the computer looking things up and trying to get the most accurate information that I need, such as ho to analyze data.
 ![My Skills](https://skillicons.dev/icons?i=java)
 
 <a href= "https://www.linkedin.com/in/darion-heyward/"/>
