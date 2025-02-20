@@ -1,4 +1,9 @@
 ## Hi there 👋
+![My Skills](https://skillicons.dev/icons?i=java)
+
+<a href= "https://www.linkedin.com/in/darion-heyward/"/>
+<img src = "https://img.shields.io/badge/%2540-LinkedIn-blue?style=flat-square&label=Follow%20me%20here%3A&color=blue" />
+
 
 <!--
 **darionheyward/darionheyward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
