@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there I'm Darion Heyward
 
-I'm Darion Heyward and I graduated from Bronx Community College in May of 2024.  I earned my Associate of Arts degree in Liberal Arts and Science. 
+I graduated from Bronx Community College in May of 2024.  I earned my Associate of Arts degree in Liberal Arts and Science. 
 I'm currently a student at Lehman College and am persuing my Bachelors of Science degree in Computer Science.
 I want to become a Computer Repair Technician and am experienced in programming in java and still like to review how much I learned.
 I'm experienced with using software applications, such as Microsoft Word, PowerPoint and Excel.
